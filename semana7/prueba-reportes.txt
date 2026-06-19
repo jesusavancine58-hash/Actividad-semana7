@@ -1,0 +1,10 @@
+La respuesta del servidor al ser ejecutado me responde 
+con el seguiente mensaje :
+
+
+ "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
